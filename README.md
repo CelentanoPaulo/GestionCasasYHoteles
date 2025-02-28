@@ -1,8 +1,8 @@
  # Reservas de Casas y Hoteles
  ## Una aplicacion para practicar los siguientes temas.
   - Herencia.
-  - polimorfismo.
-  - archivos .txt y .csv.
+  - Polimorfismo.
+  - Archivos .txt y .csv.
 
 # Demostracion.
 
